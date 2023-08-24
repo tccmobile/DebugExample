@@ -1,5 +1,5 @@
 /* Debugging example
- by will
+ by will smith
 */
 
 #include <iostream>
